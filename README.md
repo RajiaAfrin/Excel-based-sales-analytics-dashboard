@@ -14,4 +14,6 @@ The analysis focuses on answering the following key business questions:
 7.	Determine the top 10 cities by number of orders. 
 8.	Compare revenue generated across different occasions. 
 9.	Identify product popularity during specific occasions.
+# Dataset used
+-<a href="https://github.com/RajiaAfrin/Excel-based-sales-analytics-dashboard/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.xlsx">Dataset</a>
 
