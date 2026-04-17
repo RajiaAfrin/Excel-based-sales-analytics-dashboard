@@ -1,2 +1,17 @@
-# Excel-based-sales-analytics-dashboard
-An Excel-based sales analytics dashboard built using data from Ferns N Petals to analyze revenue, customer spending, product performance, and delivery trends. The dashboard uses pivot tables, charts, and slicers to visualize monthly sales, top products, and top cities to support better business insights.
+#Ferns and Petals Sales Analysis Dashboard
+##Project Overview
+This project analyzes sales data from Ferns N Petals, a gifting company that delivers products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine’s Day, birthdays, and anniversaries.
+The goal of this project is to explore sales trends, customer purchasing behavior, product performance, and delivery efficiency using an interactive Excel dashboard.
+The dashboard provides clear visual insights into key business metrics that can help improve sales strategy, product planning, and customer satisfaction.
+#Objectives
+The analysis focuses on answering the following key business questions:
+1.	Identify the total revenue generated. 
+2.	Calculate the average order-to-delivery time. 
+3.	Analyze monthly sales trends for 2023. 
+4.	Identify the top products by revenue. 
+5.	Evaluate average customer spending. 
+6.	Track sales performance of the top 5 products. 
+7.	Determine the top 10 cities by number of orders. 
+8.	Compare revenue generated across different occasions. 
+9.	Identify product popularity during specific occasions.
+
