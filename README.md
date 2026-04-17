@@ -28,6 +28,15 @@ The analysis was performed on data from Ferns N Petals using the following steps
 6. Extracted insights to support business decision-making
 # Dashboard
 <img width="1488" height="670" alt="Screenshot 2026-04-17 113317" src="https://github.com/user-attachments/assets/5c2a45df-4edc-4f4c-97b7-8e6e55164625" />
+# Key Insights
+1.	Revenue varies significantly across different occasions 
+2.	A small number of products contribute to most of the revenue 
+3.	Certain cities dominate order volume 
+4.  Sales show strong seasonal trends across months 
+5.	Customer behavior varies by time of day and occasion
+# Conclusion
+The analysis of sales data from Ferns N Petals highlights key trends in revenue, customer behavior, and product performance. The dashboard shows that sales are driven largely by specific occasions, with a few products and cities contributing most of the revenue. Overall, it provides clear insights to support better business decisions and strategy improvement.
+
 
 
 
