@@ -3,17 +3,6 @@
 This project analyzes sales data from Ferns N Petals, a gifting company that delivers products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine’s Day, birthdays, and anniversaries.
 The goal of this project is to explore sales trends, customer purchasing behavior, product performance, and delivery efficiency using an interactive Excel dashboard.
 The dashboard provides clear visual insights into key business metrics that can help improve sales strategy, product planning, and customer satisfaction.
-# Objectives
-The analysis focuses on answering the following key business questions:
-1.	Identify the total revenue generated. 
-2.	Calculate the average order-to-delivery time. 
-3.	Analyze monthly sales trends for 2023. 
-4.	Identify the top products by revenue. 
-5.	Evaluate average customer spending. 
-6.	Track sales performance of the top 5 products. 
-7.	Determine the top 10 cities by number of orders. 
-8.	Compare revenue generated across different occasions. 
-9.	Identify product popularity during specific occasions.
 # Dataset used
 -<a href="https://github.com/RajiaAfrin/Excel-based-sales-analytics-dashboard/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.xlsx">Dataset</a>
 # Key Performance Indicators (KPIs) / Business Questions
@@ -27,6 +16,18 @@ The dashboard is designed to answer the following key business questions:
 7.	Which are the top 10 cities by number of orders? 
 8.	Which occasions generate the highest revenue? 
 9.	Which products are most popular during specific occasions?
-# Dashboard Interaction
+10. Dashboard Interaction<a href="https://github.com/RajiaAfrin/Excel-based-sales-analytics-dashboard/blob/main/Screenshot%202026-04-17%20103657.png">View Dashboard</a>
+# Process
+The analysis was performed on data from Ferns N Petals using the following steps:
+
+1. Cleaned and prepared the dataset by handling missing values and formatting dates
+2. Created calculated fields such as delivery time, order value, and time-based features
+3. Performed exploratory data analysis to identify trends in revenue, customers, and products
+4. Built pivot tables to summarize key metrics across occasions, cities, and products
+5. Developed an interactive Excel dashboard using charts, KPIs, and slicers
+6. Extracted insights to support business decision-making
+# Dashboard
+<img width="1488" height="670" alt="Screenshot 2026-04-17 113317" src="https://github.com/user-attachments/assets/5c2a45df-4edc-4f4c-97b7-8e6e55164625" />
+
 
 
