@@ -1,9 +1,9 @@
-#Ferns and Petals Sales Analysis Dashboard
-##Project Overview
+# Ferns and Petals Sales Analysis Dashboard
+## Project Overview
 This project analyzes sales data from Ferns N Petals, a gifting company that delivers products for occasions such as Diwali, Raksha Bandhan, Holi, Valentine’s Day, birthdays, and anniversaries.
 The goal of this project is to explore sales trends, customer purchasing behavior, product performance, and delivery efficiency using an interactive Excel dashboard.
 The dashboard provides clear visual insights into key business metrics that can help improve sales strategy, product planning, and customer satisfaction.
-#Objectives
+# Objectives
 The analysis focuses on answering the following key business questions:
 1.	Identify the total revenue generated. 
 2.	Calculate the average order-to-delivery time. 
