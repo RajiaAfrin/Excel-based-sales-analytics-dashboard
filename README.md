@@ -16,4 +16,17 @@ The analysis focuses on answering the following key business questions:
 9.	Identify product popularity during specific occasions.
 # Dataset used
 -<a href="https://github.com/RajiaAfrin/Excel-based-sales-analytics-dashboard/blob/main/Ferns%20and%20Petals%20Sales%20Analysis.xlsx">Dataset</a>
+# Key Performance Indicators (KPIs) / Business Questions
+The dashboard is designed to answer the following key business questions:
+1.	What is the total revenue generated? 
+2.	What is the total number of orders placed? 
+3.	What is the average customer spending per order? 
+4.	What is the average delivery time for orders? 
+5.	How do monthly sales vary throughout 2023? 
+6.	Which are the top 5 products by revenue? 
+7.	Which are the top 10 cities by number of orders? 
+8.	Which occasions generate the highest revenue? 
+9.	Which products are most popular during specific occasions?
+# Dashboard Interaction
+
 
